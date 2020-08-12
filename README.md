@@ -1,19 +1,20 @@
 # PoseTREID
 
 ### What is PoseTREID?
+
+![alt text](https://raw.githubusercontent.com/rathaumons/PoseTREID/master/img/framework.png)
+
 We propose a framework for real-time 2D multi-person tracking along with face re-identification specifically for distributed people interaction spaces such as malls or parks. Our proposed framework is able to efficiently track people and re-identify them later after the tracking is lost or after the absence of the people at some frames of the video.
 
 More details? COMING SOON!
 
 ### Dataset
 
-![alt text](https://i.ibb.co/zXdCb6d/git-new.jpg)
+![alt text](https://raw.githubusercontent.com/rathaumons/PoseTREID/master/img/dataset_overview.jpg)
 
 All videos were rendered in 16:9 ratio at a resolution of 1080p with our custom script. Afterwards, they were down-scaled to 720p to fit our real-time testing scenarios and more realistic real-life cameras with less good resolution. 
 
 This dataset is specifically designed for **distributed people interaction spaces**.
-
-Download dataset from Google Drive: COMING SOON!
 
 ### Results
 By comparing to a state-of-the-art recent method [STAF](https://cmu-perceptual-computing-lab.github.io/spatio-temporal-affinity-fields/) on our dataset, the results of the proposed PoseTREID model were superior in almost every scenarios.
