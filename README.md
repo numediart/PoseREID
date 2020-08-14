@@ -1,5 +1,11 @@
 # PoseTREID
 
+
+**FOR MOST ACTIVE AND RECENT, PLEASE REFER TO THIS REPO INSTEAD:**
+
+https://github.com/rathaumons/PoseTREID_DATASET
+
+
 ### What is PoseTREID?
 
 ![alt text](https://raw.githubusercontent.com/rathaumons/PoseTREID/master/img/framework.png)
